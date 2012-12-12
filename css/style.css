@@ -122,3 +122,45 @@ footer{
 	margin: 15px;
 	float: left;
 }
+/*
+Começo do slideshow 
+*/
+#slideshow{
+	text-align: center;
+	background: #E44D26;
+	width: 903px;
+	height: 266px;
+	color: white;
+	font-size: 14px;
+	font-family: "Lucida Console", Helvetica, Arial, sans-serif;
+	padding: 30px;
+}
+
+#slideshow .img_banner{
+	float: right;	 
+	margin-left: 25px;
+}
+
+#slideshow .img_profile{
+	float: left;
+	width: 253px;
+	height: 222px;
+	margin-right: 25px;
+}
+
+#slideshow .profile{
+	float: left;
+	width: 468px;
+}
+
+#slideshow p{
+	text-align: justify; 
+}
+
+#slideshow strong{
+	display: inline-block;
+	background-color: #E65D3A;
+	font-size: 16px;
+}
+
+/* Fim do slideshow */
