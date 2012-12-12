@@ -41,6 +41,22 @@ nav ul li a: hover{
 	font-size: 20px;
 	background: #575D66;
 }
+nav ul li a:hover {
+	background-color: #F16529;
+	 padding: 6px;
+	 color: white;
+}
+
+nav ul li a {
+	text-shadow: 0.1em 0.1em 0.2em 6px purple;
+	text-transform: uppercase;
+}
+
+.active{
+    background-color: #F16529;
+    padding: 6px;
+}
+
 /* article curso*/
 
 
