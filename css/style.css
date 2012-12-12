@@ -57,3 +57,19 @@ footer{
 	background-image:url("img/bgfooter.jpg");
 	
 }
+#h2Instrutor{
+	font-size: 28;
+	font-family: "lucida console";
+}
+#h2Instrutor img{
+	margin: 10px;
+}
+.descricao-part{
+	background: #E9E9E9;
+	border: 2px solid #B5B5B5;
+
+}
+.fotojua{
+	margin: 15px;
+	float: left;
+}
