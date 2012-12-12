@@ -57,7 +57,17 @@ footer{
 	background-image:url("img/bgfooter.jpg");
 	
 }
-#h2Instrutor{
+nav ul li a {
+	text-shadow: 0.1em 0.1em 0.2em #000;
+	text-transform: uppercase;
+}
+
+.active{
+    background-color: #F16529;
+    
+    padding: 6px;
+    
+}#h2Instrutor{
 	font-size: 28;
 	font-family: "lucida console";
 }
