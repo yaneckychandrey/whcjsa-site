@@ -7,7 +7,7 @@
 }
 #top{
 	height: 255px;
-	background-image:url("img/bgtopo.jpg");
+	background-image:url("../img/bgtopo.jpg");
 }
 #logo{
 	margin:50px;
@@ -42,22 +42,61 @@ nav ul li a: hover{
 	background: #575D66;
 }
 /* article curso*/
-.typesection{
-	margin: 20px;
-	padding: 30px;
-	width:60%;
-	background:	#F2F2F2;
-	
-	-webkit-border-radius: 10px;
-}
+
 
 footer{
 	width: 100%;
 	height:	150px;
-	background-image:url("img/bgfooter.jpg");
+	background-image:url("../img/bgfooter.jpg");
+	clear: both;
 	
 }
-nav ul li a {
+
+#aside-id{
+	width: 295px;
+	background-color: #CCC;
+	height: 520px;
+	margin: 20px;
+	margin-right: 218px;
+	float: right;
+	position: relative;
+}
+
+#article{
+	margin: 20px;
+	margin-left: 100px;
+	padding: 30px;
+	width: 635px;
+	background:	#F2F2F2;
+	
+	-webkit-border-radius: 10px;
+	position: static;
+	float : left;
+}
+
+.campos-aside{
+		margin: 10px;
+		margin-top: 0px;
+		margin-left:0px;
+		padding-top: 0px;
+		padding-left: 0px;	
+		width: 280px;
+		background-color: white;
+		height: 200px;
+		-webkit-border-radius:0px 0px 10px 10px;
+}
+
+#section-one{
+	background-image:url("../img/aside1.png");
+}
+
+#section-two{
+	background-image:url("../img/aside2.png");
+}
+
+#section{
+	background-image:url("../img/aside3.png");
+}nav ul li a {
 	text-shadow: 0.1em 0.1em 0.2em #000;
 	text-transform: uppercase;
 }
