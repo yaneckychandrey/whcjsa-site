@@ -182,58 +182,6 @@ Começo do slideshow
 
 /* Fim do slideshow */
 
-#gridcourse{
-	width: 800px;
-	height: 400px;
-	
-
-}
-#gridcourse h4 {
-	margin: 0px;
-	height: 48px;
-	line-height: 48px;
-	color: white;
-}
-
-#gridcourse div{
-	width: 205px;
-	height: 280px;
-}
-
-#html5-div{
-	background-color: #e9e9e9;
-	float: left;
-	margin-right: 10px;
-
-
-}
-#html5-div h4 {
-	background-color: #F16529;
-	text-align: center;
-}
-
-#css3-div{
-	background-color: #e9e9e9;
-	float: left;
-	margin-right: 10px;
-
-}
-
-#css3-div h4{
-	background-color: #2ba6e1;
-	text-align: center;
-}
-
-#jquery-div{
-	background-color: #e9e9e9;
-	float: left;
-
-}
-
-#jquery-div h4{
-	background-color: #125c8d;
-	text-align: center;
-}
 
 #participantes{
 	background-color: #fff;
@@ -292,4 +240,54 @@ Começo do slideshow
 
 		#participantes-box a:hover{
 			color: #999;
+		}
+		#gridcourse{
+			width: 800px;
+			height: 400px;
+		}
+		#gridcourse h4 {
+			margin: 0px;
+			height: 48px;
+			line-height: 48px;
+			color: white;
+		}
+
+		#gridcourse div{
+			width: 205px;
+			height: 280px;
+		}
+
+		#html5-div{
+			background-color: #e9e9e9;
+			float: left;
+			margin-right: 10px;
+
+
+		}
+		#html5-div h4 {
+			background-color: #F16529;
+			text-align: center;
+		}
+
+		#css3-div{
+			background-color: #e9e9e9;
+			float: left;
+			margin-right: 10px;
+
+		}
+
+		#css3-div h4{
+			background-color: #2ba6e1;
+			text-align: center;
+		}
+
+		#jquery-div{
+			background-color: #e9e9e9;
+			float: left;
+
+		}
+
+		#jquery-div h4{
+			background-color: #125c8d;
+			text-align: center;
 		}
